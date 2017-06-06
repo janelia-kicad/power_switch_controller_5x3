@@ -1,4 +1,4 @@
-# template_5x3
+# power_switch_controller_5x3
 
 Authors:
 
